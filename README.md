@@ -1,6 +1,6 @@
 # Intro
 
-This repo is for any and all free strategies I develop and optimize. I have extra bots I’ve made over my time developing, and I do not use them all, so I thought I would give back to the trading community by providing something that someone finds useful.
+This [repo](https://github.com/MaxwellMendenhall/trading-kit/tree/main) is for any and all free strategies I develop and optimize. I have extra bots I’ve made over my time developing, and I do not use them all, so I thought I would give back to the trading community by providing something that someone finds useful.
 
 These are all backtested, but they do NOT guarantee that they will perform like this in the future. All the strategies will be backtested from 1/1/2024 to the current date that they are uploaded in the 15 min time frame. If abnormally great results are found in lower time frames, they will be provided. (Not including lower time frames DOES NOT MEAN GOOD RESULTS DON'T EXIST THERE.) If the backtest date were to change, I will make a note. I will be constantly updating this repo with more strategies I deprecate (just don't use anymore because I found something better), which does not mean these strategies are entirely useless—they are just old code collecting dust.
 
@@ -15,20 +15,20 @@ All these bots/strats/algos are developed in C# for Ninja Trader. I provided the
 
 ## TrendAholic
 ### 15 Min
-![Backtest Results](./imgs/TrendAholic15Min.PNG)
-[Template File Here](./templates/MaxBots.TrendAholic/15Min.xml)
+![Backtest Results](https://github.com/MaxwellMendenhall/trading-kit/blob/19385410a378bc9fb9261aaf297125b084980f4f/imgs/TrendAholic15Min.PNG?raw=true)
+[Template File Here](https://github.com/MaxwellMendenhall/trading-kit/blob/main/templates/MaxBots.TrendAholic/15Min.xml)
 
 ## RobStratSync
 ### 15 Min
-![Backtest Results](./imgs/RobStratSync15Min.PNG)
-[Template File Here](./templates/MaxBots.RobStratSync/15%20Min.xml)
+![Backtest Results](https://github.com/MaxwellMendenhall/trading-kit/blob/main/imgs/PivotStrength15Min.PNG?raw=true)
+[Template File Here](https://github.com/MaxwellMendenhall/trading-kit/blob/main/templates/MaxBots.RobStratSync/15%20Min.xml)
 
 ## PivotStrength
 ### 15 Min (M2K)
-![Backtest Results](./imgs/PivotStrength15Min.PNG)
-[Template File Here](./templates/MaxBots.PivotStrength/15Min.xml)
+![Backtest Results](https://github.com/MaxwellMendenhall/trading-kit/blob/main/imgs/PivotStrength15Min.PNG?raw=true)
+[Template File Here](https://github.com/MaxwellMendenhall/trading-kit/blob/main/templates/MaxBots.PivotStrength/15Min.xml)
 
 ## BollingerEma
 ### 5 Min (NQ)
-![Backtest Results](./imgs/BollingerEma5Min.PNG)
-[Template File Here](./templates/MaxBots.BollingerEma//Best%205%20Min%20No%20Profit%20Target.xml)
+![Backtest Results](https://github.com/MaxwellMendenhall/trading-kit/blob/main/imgs/BollingerEma5Min.PNG?raw=true)
+[Template File Here](https://github.com/MaxwellMendenhall/trading-kit/blob/main/templates/MaxBots.BollingerEma/Best%205%20Min%20No%20Profit%20Target.xml)
